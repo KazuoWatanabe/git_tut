@@ -1,3 +1,4 @@
 git training
 second edition
 add b
+add c
