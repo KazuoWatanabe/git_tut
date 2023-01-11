@@ -2,3 +2,6 @@ git training
 second edition
 add b
 add c
+d
+e
+f
